@@ -1,5 +1,5 @@
 PODS:
-  - CocoaLib (0.1.0)
+  - CocoaLib (0.2.0)
 
 DEPENDENCIES:
   - CocoaLib (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CocoaLib: 789294ac8c66e837d60abe3f11b0e5022cf16251
+  CocoaLib: 66c3b915707df2e88964d990f523da63c151b97f
 
 PODFILE CHECKSUM: d09ee80399b1c1c14421ee49e1b41ad427be4fb9
 
