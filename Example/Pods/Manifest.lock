@@ -1,0 +1,16 @@
+PODS:
+  - CocoaLib (0.1.0)
+
+DEPENDENCIES:
+  - CocoaLib (from `../`)
+
+EXTERNAL SOURCES:
+  CocoaLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CocoaLib: 789294ac8c66e837d60abe3f11b0e5022cf16251
+
+PODFILE CHECKSUM: d09ee80399b1c1c14421ee49e1b41ad427be4fb9
+
+COCOAPODS: 1.13.0

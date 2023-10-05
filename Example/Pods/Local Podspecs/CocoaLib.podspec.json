@@ -1,0 +1,22 @@
+{
+  "name": "CocoaLib",
+  "version": "0.1.0",
+  "summary": "A short description of CocoaLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Олег Аксененко/CocoaLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Олег Аксененко": "aksenenko_oyu@drom.ru"
+  },
+  "source": {
+    "git": "git@github.com:PowerSl1d3/CocoaLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "CocoaLib/Classes/**/*"
+}
